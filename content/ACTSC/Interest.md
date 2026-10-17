@@ -11,7 +11,7 @@ Our first, most simple equation is for the price of a risk-free bond:
 
 $$B(\tau)-B(0) := dB(\tau) = r  B(\tau) d\tau $$
   
-The solution to this  [[ODE |first order ODE]] tells us the [[time value of money]]. 
+The solution to this  [[ODE |first order ODE]] tells us the [[Time Value of Money]]. 
 
 $$\frac{B(\tau)}{B(t)} = \exp\{r(\tau-t)\} $$
 

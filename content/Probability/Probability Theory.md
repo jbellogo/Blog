@@ -21,7 +21,7 @@ Let $\Omega$ be our sample space. loosely speaking, it contains things that can 
 
 If we are throwing a 3 sided die: $\Omega = \{1,2,3\}$
 
-On this sample space we want to be able to ask questions about the outcomes of a *singular trial*. Using the [[random variable]] $X : \Omega \rightarrow \mathbb{R}$
+On this sample space we want to be able to ask questions about the outcomes of a *singular trial*. Using the [[Random Variable]] $X : \Omega \rightarrow \mathbb{R}$
 
 * What is the probability that the first throw is 1? 
 * What is the probability the first throw is nothing?

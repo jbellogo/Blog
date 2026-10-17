@@ -77,7 +77,7 @@ $\text{NPV} > 0 \iff \text{increase in company value} \iff \text{increase in sha
 * Can be applied to any weird pattern of cashflows. 
 
 **Cons** 
-* In practice, cashflows must be [forecasted](Forecasting), and as we know, the reliability of a forecast is based on how much prior previouss data is avaliable. 
+* In practice, cashflows must be [forecasted](Forecasting.md), and as we know, the reliability of a forecast is based on how much prior previouss data is avaliable. 
 	* Interesting scenario: Jake Paul vs Mike Tyson's boxing match hosted by Netflix. From a Capital budgeting's perspective, Netflix does not have PPV events, so its cashflows are, assumably, mostly made up of subscriptions. How do they decide to spend so much money on this even, or even a new show/movie? I believe they forecast the theoretical number of new views and maybe even subscriptions this could bring.  
 
 * What should the discount rate be? If you are lending you want it as high as possible, but whats as high as this number can get before you start loosing money to the competition?
